@@ -28,3 +28,12 @@
 - Crawling
     - BeautifulSoup
     - Selenium
+
+# 4일차 
+- 빅데이터 분석 기초
+    - Matplotlib / Seaborn은 옵션
+    - Crawling
+        - BeautifulSoup 패스
+        - Selenium
+
+## 빅데이터 분석 실습
