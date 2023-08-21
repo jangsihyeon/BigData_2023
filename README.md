@@ -31,9 +31,14 @@
 
 # 4일차 
 - 빅데이터 분석 기초
-    - Matplotlib / Seaborn은 옵션
+    - Pandas 데이터 묶음
+        - DB Join, Union
+
+# 5일차 
+- 빅데이터 분석 기초 
     - Crawling
         - BeautifulSoup 패스
         - Selenium
+- 빅데이터 분석 실습 
+    - 크롤링 및 전처리, 분석 및 시각화 
 
-## 빅데이터 분석 실습
